@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonImage /> Rendering should match to snapshot: PokemonImage snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignContent": "center",
+      "backgroundColor": "#F2F2F2",
+      "borderRadius": 4,
+      "flex": 1,
+      "height": 300,
+      "marginBottom": 12,
+      "padding": 24,
+      "width": "100%",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://assets.pokemon.com/assets/cms2/img/pokedex/full001.png",
+      }
+    }
+    style={
+      Object {
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  />
+</View>
+`;

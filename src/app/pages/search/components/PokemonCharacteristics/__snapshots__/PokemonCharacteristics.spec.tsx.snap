@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonCharacteristics /> Rendering should match to snapshot: PokemonType snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#30a7d7",
+      "borderRadius": 8,
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "marginBottom": 12,
+      "padding": 12,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={Object {}}
+    >
+      <Text
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Height
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#212121",
+          }
+        }
+      >
+        7
+      </Text>
+    </View>
+    <View
+      style={Object {}}
+    >
+      <Text
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Weight
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#212121",
+          }
+        }
+      >
+        69
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={Object {}}
+    >
+      <Text
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Category
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#212121",
+          }
+        }
+      >
+        -
+      </Text>
+    </View>
+    <View
+      style={Object {}}
+    >
+      <Text
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Abilities
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#212121",
+          }
+        }
+      >
+        chlorophyll e overgrow
+      </Text>
+    </View>
+  </View>
+</View>
+`;

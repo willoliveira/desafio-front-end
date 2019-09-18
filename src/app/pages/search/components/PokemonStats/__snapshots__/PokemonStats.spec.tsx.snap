@@ -1,0 +1,409 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonStats /> Rendering should match to snapshot - one type - electric: PokemonStats snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#a4a4a4",
+      "borderRadius": 10,
+      "flex": 1,
+      "flexDirection": "column",
+      "marginBottom": 12,
+      "minHeight": 250,
+      "paddingBottom": 42,
+      "paddingLeft": 12,
+      "paddingRight": 12,
+      "paddingTop": 18,
+      "width": "100%",
+    }
+  }
+>
+  <Text>
+    Stats
+  </Text>
+  <View
+    style={
+      Object {
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+        "height": "90%",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      key="key-speed"
+      style={
+        Object {
+          "flex": 1,
+          "flexGrow": 1,
+          "height": "100%",
+          "margin": 2,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+            "height": "100%",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "backgroundColor": "#30a7d7",
+            "bottom": 0,
+            "height": "50%",
+            "position": "absolute",
+            "width": "100%",
+            "zIndex": 999,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "bottom": 4,
+              "color": "#FFFFFF",
+              "left": 0,
+              "position": "absolute",
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          100
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "bottom": -20,
+            "fontWeight": "bold",
+            "position": "absolute",
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+      >
+        Spd
+      </Text>
+    </View>
+    <View
+      key="key-special-defense"
+      style={
+        Object {
+          "flex": 1,
+          "flexGrow": 1,
+          "height": "100%",
+          "margin": 2,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+            "height": "100%",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "backgroundColor": "#30a7d7",
+            "bottom": 0,
+            "height": "33%",
+            "position": "absolute",
+            "width": "100%",
+            "zIndex": 999,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "bottom": 4,
+              "color": "#FFFFFF",
+              "left": 0,
+              "position": "absolute",
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          65
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "bottom": -20,
+            "fontWeight": "bold",
+            "position": "absolute",
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+      >
+        Sp Def
+      </Text>
+    </View>
+    <View
+      key="key-special-attack"
+      style={
+        Object {
+          "flex": 1,
+          "flexGrow": 1,
+          "height": "100%",
+          "margin": 2,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+            "height": "100%",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "backgroundColor": "#30a7d7",
+            "bottom": 0,
+            "height": "33%",
+            "position": "absolute",
+            "width": "100%",
+            "zIndex": 999,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "bottom": 4,
+              "color": "#FFFFFF",
+              "left": 0,
+              "position": "absolute",
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          65
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "bottom": -20,
+            "fontWeight": "bold",
+            "position": "absolute",
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+      >
+        Sp Atk
+      </Text>
+    </View>
+    <View
+      key="key-defense"
+      style={
+        Object {
+          "flex": 1,
+          "flexGrow": 1,
+          "height": "100%",
+          "margin": 2,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+            "height": "100%",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "backgroundColor": "#30a7d7",
+            "bottom": 0,
+            "height": "25%",
+            "position": "absolute",
+            "width": "100%",
+            "zIndex": 999,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "bottom": 4,
+              "color": "#FFFFFF",
+              "left": 0,
+              "position": "absolute",
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          49
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "bottom": -20,
+            "fontWeight": "bold",
+            "position": "absolute",
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+      >
+        Def
+      </Text>
+    </View>
+    <View
+      key="key-attack"
+      style={
+        Object {
+          "flex": 1,
+          "flexGrow": 1,
+          "height": "100%",
+          "margin": 2,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+            "height": "100%",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "backgroundColor": "#30a7d7",
+            "bottom": 0,
+            "height": "25%",
+            "position": "absolute",
+            "width": "100%",
+            "zIndex": 999,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "bottom": 4,
+              "color": "#FFFFFF",
+              "left": 0,
+              "position": "absolute",
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          49
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "bottom": -20,
+            "fontWeight": "bold",
+            "position": "absolute",
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+      >
+        Atk
+      </Text>
+    </View>
+    <View
+      key="key-hp"
+      style={
+        Object {
+          "flex": 1,
+          "flexGrow": 1,
+          "height": "100%",
+          "margin": 2,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+            "height": "100%",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "backgroundColor": "#30a7d7",
+            "bottom": 0,
+            "height": "23%",
+            "position": "absolute",
+            "width": "100%",
+            "zIndex": 999,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "bottom": 4,
+              "color": "#FFFFFF",
+              "left": 0,
+              "position": "absolute",
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          45
+        </Text>
+      </View>
+      <Text
+        style={
+          Object {
+            "bottom": -20,
+            "fontWeight": "bold",
+            "position": "absolute",
+            "textAlign": "center",
+            "width": "100%",
+          }
+        }
+      >
+        HP
+      </Text>
+    </View>
+  </View>
+</View>
+`;

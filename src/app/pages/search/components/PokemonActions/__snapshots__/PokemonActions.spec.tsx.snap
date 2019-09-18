@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonActions /> Rendering should match to snapshot - add button: PokemonActions snapshot 1`] = `
+<View
+  style={
+    Object {
+      "position": "absolute",
+      "right": 0,
+      "top": 12,
+    }
+  }
+>
+  <Button
+    onPress={[Function]}
+    title="Remover"
+  />
+</View>
+`;
+
+exports[`<PokemonActions /> Rendering should match to snapshot - remove button: PokemonActions snapshot 1`] = `
+<View
+  style={
+    Object {
+      "position": "absolute",
+      "right": 0,
+      "top": 12,
+    }
+  }
+>
+  <Button
+    onPress={[Function]}
+    title="Adicionar"
+  />
+</View>
+`;

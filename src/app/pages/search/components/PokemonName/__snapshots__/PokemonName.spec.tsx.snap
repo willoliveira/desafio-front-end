@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonName /> Rendering should match to snapshot - Bulbassaur Nº001: PokemonName snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 16,
+      "marginTop": 16,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignContent": "center",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+        }
+      }
+    >
+      Bulbassaur
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#616161",
+          "fontSize": 20,
+          "marginLeft": 4,
+        }
+      }
+    >
+      Nº001
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<PokemonName /> Rendering should match to snapshot - Mewtwo Nº150: PokemonName snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 16,
+      "marginTop": 16,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignContent": "center",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+        }
+      }
+    >
+      Bulbassaur
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#616161",
+          "fontSize": 20,
+          "marginLeft": 4,
+        }
+      }
+    >
+      Nº001
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<PokemonName /> Rendering should match to snapshot - Pikachu Nº025: PokemonName snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 16,
+      "marginTop": 16,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignContent": "center",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+        }
+      }
+    >
+      Bulbassaur
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#616161",
+          "fontSize": 20,
+          "marginLeft": 4,
+        }
+      }
+    >
+      Nº001
+    </Text>
+  </View>
+</View>
+`;

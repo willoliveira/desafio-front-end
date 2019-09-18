@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonTypes /> Rendering should match to snapshot - one type - electric: PokemonType snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginBottom": 24,
+    }
+  }
+>
+  <View
+    key="key-electric"
+    style={
+      Object {
+        "backgroundColor": "#eed535",
+        "borderRadius": 8,
+        "margin": 2,
+        "minWidth": 56,
+        "padding": 8,
+        "textAlign": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "textAlign": "center",
+        }
+      }
+    >
+      electric
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<PokemonTypes /> Rendering should match to snapshot - two type - poison and : PokemonType snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "marginBottom": 24,
+    }
+  }
+>
+  <View
+    key="key-poison"
+    style={
+      Object {
+        "backgroundColor": "#b97fc9",
+        "borderRadius": 8,
+        "margin": 2,
+        "minWidth": 56,
+        "padding": 8,
+        "textAlign": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "textAlign": "center",
+        }
+      }
+    >
+      poison
+    </Text>
+  </View>
+  <View
+    key="key-grass"
+    style={
+      Object {
+        "backgroundColor": "#9bcc50",
+        "borderRadius": 8,
+        "margin": 2,
+        "minWidth": 56,
+        "padding": 8,
+        "textAlign": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "textAlign": "center",
+        }
+      }
+    >
+      grass
+    </Text>
+  </View>
+</View>
+`;
